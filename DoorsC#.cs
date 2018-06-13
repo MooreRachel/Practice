@@ -1,3 +1,6 @@
+//100 doors in C# problem and solution from rosettacode.org
+// see the code working at https://dotnetfiddle.net/LO3iKU
+
 namespace ConsoleApplication1 
 {
     using System;

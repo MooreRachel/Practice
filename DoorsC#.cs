@@ -1,4 +1,5 @@
 //100 doors in C# problem and solution from rosettacode.org
+́́//http://rosettacode.org/wiki/100_doors#C.23
 // see the code working at https://dotnetfiddle.net/LO3iKU
 
 namespace ConsoleApplication1 
